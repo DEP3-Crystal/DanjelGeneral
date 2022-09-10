@@ -9,8 +9,8 @@ public class Teacher {
 
 //        Student studentProxy=new StudentProxy(new Attendance(true,new Date()));
 //        studentProxy.attendLesson();
-//
-//        DailySession dailySession=new StudentProxy(new Attendance(false,new Date()));
+
+//        DailySession=new StudentProxy(new Attendance(false,new Date()));
 //        dailySession.attendLesson();
     }
 }
