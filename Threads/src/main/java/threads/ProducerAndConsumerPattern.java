@@ -1,11 +1,8 @@
 package threads;
-
-import java.util.Collection;
-import java.util.Iterator;
 import java.util.Random;
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
-import java.util.concurrent.TimeUnit;
+
 
 public class ProducerAndConsumerPattern {
     private static BlockingQueue<Integer>queue=new ArrayBlockingQueue<>(10);
